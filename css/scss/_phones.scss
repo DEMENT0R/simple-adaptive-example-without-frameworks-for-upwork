@@ -1,0 +1,25 @@
+.main-container {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.content-only-for-phones {
+	display: block;
+}
+
+.content-only-for-desktops {
+	display: none;
+}
+
+
+.group-cards-block {
+	padding: 0;
+	margin: 0;
+}
+
+.card-block {
+	display: block;
+	margin: 0;
+	width: 100%;
+}

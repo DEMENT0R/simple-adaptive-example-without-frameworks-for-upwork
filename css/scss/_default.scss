@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Play');
+
+* {
+	font-family: 'Play';
+}
+
+body {
+	margin: 0;
+}
+
+div {
+	//border: 1px solid #ddd;
+}
+
+img {
+	width: 100%;
+}
+
+p {
+	padding: 10px;
+}
+
+.image-standart {
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
